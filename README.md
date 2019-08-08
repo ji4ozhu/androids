@@ -8,10 +8,11 @@
 ![截图](https://raw.githubusercontent.com/ji4ozhu/androids/master/androids.PNG)
 
 tag:安卓群控
-stf
-minicap
-AndroidControl
-adb shell
-投屏,群控
+#stf
+#minicap
+#AndroidControl
+#adb shell
+#投屏
+#群控
 
 
