@@ -1,3 +1,12 @@
+安卓群控
+stf
+minicap
+AndroidControl
+adb shell
+投屏
+群控
+
+
 #include "windows.h"
 #include <iostream>
 #include <string.h>
@@ -45,15 +54,5 @@ void base64_decode_s(const unsigned char *code, std::string& outstr, long* lpBuf
 		outstr[j+2]=(((unsigned char)table[code[i+2]])<<6) | ((unsigned char)table[code[i+3]]); //取出第三个字符对应base64表的十进制数的后2位与第4个字符进行组合  
 	}  
 
-
-/*
-安卓群控
-stf
-minicap
-AndroidControl
-adb shell
-投屏
-群控
-*/
 	return; 
 }
